@@ -4,4 +4,4 @@ echo 'bg';
 
 echo 'ca marche?';
 
-echo 'majour';
+echo 'mise a jour';
