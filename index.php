@@ -1,5 +1,5 @@
 <?php
 
-echo 'bg';
+echo 'alors?';
 
 echo 'mise a jour';
